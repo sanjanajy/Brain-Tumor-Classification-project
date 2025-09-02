@@ -42,9 +42,21 @@ In addition, an **interactive dashboard (built in Colab)** was developed to:
 ## 📊 Results
 ### Training Performance
 ![Accuracy Curve](outputs/accuracy_chart.jpg)
+📌 Overall Metrics
+• Overall Accuracy: 96.42%
+• Macro-average F1-score: 0.96
+• Weighted-average F1-score: 0.96
 
-### Grad-CAM Visualization Example
-![Grad-CAM Example](outputs/gradcam_visualization.jpg)
+🏅 Best Performing Class
+• No Tumor (98.3% accuracy)
+
+📉 Most Challenging Class
+• Glioma (94.3% accuracy)
+
+📊 AUC Scores
+• Average AUC: 1.00
+
+
 
 ---
 
@@ -53,4 +65,5 @@ In addition, an **interactive dashboard (built in Colab)** was developed to:
    ```bash
    git clone https://github.com/username/Brain-Tumor-Classification.git
    cd Brain-Tumor-Classification
+
 
