@@ -41,10 +41,10 @@ In addition, an **interactive dashboard (built in Colab)** was developed to:
 
 ## 📊 Results
 ### Training Performance
-![Accuracy Curve](outputs/accuracy_loss_curve.png)
+![Accuracy Curve](outputs/accuracy_chart.jpg)
 
 ### Grad-CAM Visualization Example
-![Grad-CAM Example](outputs/gradcam_visualization.png)
+![Grad-CAM Example](outputs/gradcam_visualization.jpg)
 
 ---
 
@@ -53,3 +53,4 @@ In addition, an **interactive dashboard (built in Colab)** was developed to:
    ```bash
    git clone https://github.com/username/Brain-Tumor-Classification.git
    cd Brain-Tumor-Classification
+
